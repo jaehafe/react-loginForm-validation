@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-loginForm-validation/static/css/main.4b174fb4.css",
+    "main.js": "/react-loginForm-validation/static/js/main.c8b82dc3.js",
+    "index.html": "/react-loginForm-validation/index.html",
+    "main.4b174fb4.css.map": "/react-loginForm-validation/static/css/main.4b174fb4.css.map",
+    "main.c8b82dc3.js.map": "/react-loginForm-validation/static/js/main.c8b82dc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b174fb4.css",
+    "static/js/main.c8b82dc3.js"
+  ]
+}
